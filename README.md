@@ -1,5 +1,5 @@
 # MIPSx32-Microprocessor---RISC
-A 5 Stage Pipelined Processor
+A 5 Stage Pipelined Processor.
 The project incorporates the following attributes
 
 ▫️ MIPS32
