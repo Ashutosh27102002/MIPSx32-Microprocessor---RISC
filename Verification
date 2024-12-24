@@ -1,7 +1,7 @@
   module verification;
   reg clk1, clk2;
   integer k;
-  pipe_MIPS32 mips (clk1, clk2);
+  MIPS32 mips (clk1, clk2);
   initial
   begin
     clk1 = 0;
